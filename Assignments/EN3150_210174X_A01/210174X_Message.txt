@@ -1,0 +1,7 @@
+Dear Sir,
+
+I have completed all the answers for my assignment in a Jupyter notebook, including code sections and detailed explanations. My submission PDF is a direct conversion from the notebook, but there are some LaTeX rendering issues with the equations involving the dollar sign ($) in my answers. 
+
+If there is any confusion regarding the answers, please refer to the Jupyter notebook in the attached zip file. For convenience, I’ve also made it publicly accessible through this Google Colab link: https://colab.research.google.com/drive/1Mn4ANUnovqzzPuARKSPGzk4HJh_M-Rve?usp=sharing. 
+
+Thank you.
